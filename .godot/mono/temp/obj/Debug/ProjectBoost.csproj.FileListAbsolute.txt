@@ -1,0 +1,17 @@
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\ProjectBoost.deps.json
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\ProjectBoost.runtimeconfig.json
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\ProjectBoost.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\ProjectBoost.pdb
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.csproj.AssemblyReference.cache
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.AssemblyInfoInputs.cache
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.AssemblyInfo.cs
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.csproj.CoreCompileInputs.cache
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectB.DA816E5A.Up2Date
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\refint\ProjectBoost.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.pdb
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.genruntimeconfig.cache
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ref\ProjectBoost.dll
