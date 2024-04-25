@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjectBoost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45e4da29f33a9b3fc96433027bc62b987a2d85f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjectBoost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjectBoost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

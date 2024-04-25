@@ -32,3 +32,4 @@ D:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\refint\ProjectBoost.dl
 D:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.pdb
 D:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.genruntimeconfig.cache
 D:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ref\ProjectBoost.dll
+C:\Godot Projects\ProjectBoost\.godot\mono\temp\obj\Debug\ProjectBoost.sourcelink.json

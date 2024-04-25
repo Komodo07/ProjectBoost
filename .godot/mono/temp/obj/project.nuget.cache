@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "BA6vCOFM1O20Dz5Syhfn9lPQXB15+NNbs9bsL3kGYHm0X26fgvUJghNN1XTwyoB4uaZEojwoWncSBg2ZSoWatQ==",
+  "dgSpecHash": "1jLBTM0yI9Nn4H5GU+yyy1VmUcx2kJaXwUku/pFUYrFxLC32rk53gcpsCoBQNBrlvvni3R5Zrq2UPGK85z6yyw==",
   "success": true,
-  "projectFilePath": "D:\\Godot Projects\\ProjectBoost\\ProjectBoost.csproj",
+  "projectFilePath": "C:\\Godot Projects\\ProjectBoost\\ProjectBoost.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\komod\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
-    "C:\\Users\\komod\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
-    "C:\\Users\\komod\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512",
-    "C:\\Users\\komod\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\komod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\komod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+    "C:\\Users\\jtucker\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\jtucker\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\jtucker\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512",
+    "C:\\Users\\jtucker\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jtucker\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\jtucker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
